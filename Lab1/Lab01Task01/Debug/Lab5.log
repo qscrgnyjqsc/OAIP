@@ -1,0 +1,5 @@
+﻿  Lab5.c
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab1\Lab01Task01\Lab5.c(10,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab1\Lab01Task01\Lab5.c(11,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab1\Lab01Task01\Lab5.c(6,1): warning C4305: инициализация: усечение из "double" в "float"
+  Lab5.vcxproj -> C:\Users\Олеся\Desktop\Study\ОАиП\Lab1\Lab01Task01\Debug\Lab5.exe

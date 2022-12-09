@@ -1,0 +1,4 @@
+﻿  Lab01Task01.c
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab3\Lab03Task02\Lab01Task01\Lab01Task01.c(9,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab3\Lab03Task02\Lab01Task01\Lab01Task01.c(47,62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab01Task01.vcxproj -> C:\Users\Олеся\Desktop\Study\ОАиП\Lab3\Lab03Task02\Debug\Lab01Task01.exe
