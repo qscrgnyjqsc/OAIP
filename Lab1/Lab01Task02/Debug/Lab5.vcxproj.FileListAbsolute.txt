@@ -1,0 +1,4 @@
+D:\Nast\Lab5\Debug\Lab5.exe
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab3\Lab03Task01\Debug\Lab5.exe
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab4\Lab04Task01\Debug\Lab5.exe
+C:\Users\Олеся\Desktop\Study\ОАиП\Lab1\Lab01Task02\Debug\Lab5.exe

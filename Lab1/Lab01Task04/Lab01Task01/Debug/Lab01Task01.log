@@ -1,0 +1,5 @@
+﻿  Lab01Task01.c
+C:\Users\Олеся\Desktop\1 лаба\Lab01Task01\Lab01Task01\Lab01Task01.c(6,14): error C2040: a: "int" отличается по уровням косвенного обращения от "char [15]"
+C:\Users\Олеся\Desktop\1 лаба\Lab01Task01\Lab01Task01\Lab01Task01.c(7,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Олеся\Desktop\1 лаба\Lab01Task01\Lab01Task01\Lab01Task01.c(32,18): error C2106: =: левый операнд должен быть левосторонним значением
+C:\Users\Олеся\Desktop\1 лаба\Lab01Task01\Lab01Task01\Lab01Task01.c(53,21): warning C4047: !=: "char [15]" отличается по уровням косвенного обращения от "int"
